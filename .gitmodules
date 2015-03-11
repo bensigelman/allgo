@@ -1,0 +1,3 @@
+[submodule "go/src/stackbench"]
+	path = go/src/stackbench
+	url = https://github.com/bensigelman/golang-stackbench

@@ -1,2 +1,3 @@
 # allgo
-all of my self-contained go repos as submodules
+
+Small, self-contained go repos that live as submodules underneath `go/src`.
